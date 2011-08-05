@@ -13,10 +13,8 @@ urlpatterns = patterns('',
 
 	# report by year
 	url(r'^report/(?P<year>\d{4})/$',
-		MonthArchiveView.as_view(
+		YearArchiveView.as_view(
 			date_field = 'date',
-			month_format = '%m',
-			allow_empty = True,
 			queryset = TimeEntry.objects.all())),
 
 	# report by year, month
@@ -24,7 +22,6 @@ urlpatterns = patterns('',
 		MonthArchiveView.as_view(
 			date_field = 'date',
 			month_format = '%m',
-			allow_empty = True,
 			queryset = TimeEntry.objects.all())),
 
 	# url(r'^$', 'timeclock.views.home', name='home'),
