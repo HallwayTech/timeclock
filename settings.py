@@ -83,7 +83,7 @@ STATICFILES_FINDERS = (
 )
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = '#o8dixhr-97vju&cr95=kz+5&3l__xbg3&r9k71p4dvihfn#7q'
+SECRET_KEY = '#o8dixhr-97vju&cr95=jz+5&3l__xbg3&r9k71p4dvihfn#7h'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
@@ -115,11 +115,10 @@ INSTALLED_APPS = (
     #'django.contrib.sites',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    # Uncomment the next line to enable the admin:
     'django.contrib.admin',
-    # Uncomment the next line to enable admin documentation:
     'django.contrib.admindocs',
-    'timecard'
+    'timecard',
+    'report',
 )
 
 # A sample logging configuration. The only tangible logging
@@ -144,3 +143,4 @@ LOGGING = {
         },
     }
 }
+
