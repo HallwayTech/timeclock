@@ -20,7 +20,7 @@ class TimeEntry(models.Model):
 	hours = models.IntegerField()
 
 	def __unicode__(self):
-		return self.project
+		return self.project.name
 
 	class Meta:
 		verbose_name_plural = 'Time Entries'
