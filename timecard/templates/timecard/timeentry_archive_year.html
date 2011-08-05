@@ -1,0 +1,6 @@
+<h1>Archive for {{ year }}</h1>
+
+{% for date in date_list %}
+    {% ifchanged %}<h3><a href="{{ date|date:"m"|lower }}/">{{ date|date:"F" }}</a></h3>{% endifchanged %}
+{% endfor %}
+
