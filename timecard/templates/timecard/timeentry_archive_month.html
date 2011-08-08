@@ -1,0 +1,6 @@
+<h1>Archive for {{ month|date:"m" }}/<a href="..">{{ month|date:"Y" }}</a></h1>
+
+{% for o in object_list %}
+	<h3>{{ o.date }}</h3>
+	<div><span>{{ o.task }}</span> - <span>{{ o.hours__sum }}</span></div>
+{% endfor %}

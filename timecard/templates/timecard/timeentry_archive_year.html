@@ -1,6 +1,5 @@
 <h1>Archive for {{ year }}</h1>
 
-{% for date in date_list %}
-    {% ifchanged %}<h3><a href="{{ date|date:"m"|lower }}/">{{ date|date:"F" }}</a></h3>{% endifchanged %}
+{% for o in object_list %}
+    {% ifchanged %}<h3><a href="{{ o.date_month }}/">{{ o.date_month }}</a> - {{ o.hours__sum }}</h3>{% endifchanged %}
 {% endfor %}
-
