@@ -106,7 +106,7 @@ def build_totals(data):
         totals[date] = day
     return totals
 
-def write_time_block(worksheet, totals, row_offset=0, first_block=True):
+def write_time_block(worksheet, totals, row_offset=0):
     if (row_offset > 0):
         row_offset += 3
     descriptions = []
@@ -116,9 +116,9 @@ def write_time_block(worksheet, totals, row_offset=0, first_block=True):
     max_description_len = 0
 
     for date in sorted(totals.iterkeys()):
-        if first_block and datetime.strptime(date, EXCEL_DATE_FMT).day > 15:
+        if row_offset is 0 and datetime.strptime(date, EXCEL_DATE_FMT).day > 15:
             break
-        elif not first_block and datetime.strptime(date, EXCEL_DATE_FMT).day <= 15:
+        elif row_offset is not 0 and datetime.strptime(date, EXCEL_DATE_FMT).day <= 15:
             continue
 
         daily_totals.append(0)
@@ -146,11 +146,11 @@ def write_time_block(worksheet, totals, row_offset=0, first_block=True):
     # write the last column
     daily_totals_len = len(daily_totals) + 1
     worksheet.write(row_offset, daily_totals_len, 'Bi-Monthly Total', summary_total_header)
+    worksheet.col(daily_totals_len).width = len('Bi-Monthly Total') * 256
 
     # set the first and last column widths for readability
     if max_description_len > 0:
         worksheet.col(0).width = max_description_len * 256
-    worksheet.col(daily_totals_len).width = len('Bi-Monthly Total') * 256
 
     last_row = len(descriptions) + 1
     # write out the task totals as a column
@@ -182,7 +182,7 @@ def write_excel(totals):
     total_hours += block_total
     total_tasks += block_tasks
 
-    block_tasks, block_total = write_time_block(worksheet, totals, block_tasks, False)
+    block_tasks, block_total = write_time_block(worksheet, totals, block_tasks)
     total_hours += block_total
     total_tasks += block_tasks
 
