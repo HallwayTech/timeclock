@@ -1,0 +1,551 @@
+{
+  "related_data_updated_at":"2011-08-12T19:55:10-04:00",
+  "data":[
+    {
+      "duration":10800,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-05T22:08:00-04:00",
+      "stop":"2011-08-05T01:08:00-04:00",
+      "description":"Research \u0026 Meetings",
+      "ignore_start_and_stop":false,
+      "id":15390226,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":7200,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-05T23:08:00-04:00",
+      "stop":"2011-08-05T01:08:00-04:00",
+      "description":"JIRAs for 0.11",
+      "ignore_start_and_stop":false,
+      "id":15390231,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":21600,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-07T19:08:00-04:00",
+      "stop":"2011-08-07T01:08:00-04:00",
+      "description":"JIRAs for 0.11",
+      "ignore_start_and_stop":false,
+      "id":15390234,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":28800,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-08T17:08:00-04:00",
+      "stop":"2011-08-08T01:08:00-04:00",
+      "description":"JIRAs for 0.11",
+      "ignore_start_and_stop":false,
+      "id":15390244,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":14400,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-08T21:08:00-04:00",
+      "stop":"2011-08-08T01:08:00-04:00",
+      "description":"Research \u0026 Meetings",
+      "ignore_start_and_stop":false,
+      "id":15390242,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":28800,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-09T12:59:00-04:00",
+      "stop":"2011-08-09T20:59:00-04:00",
+      "description":"JIRAs for 0.11",
+      "ignore_start_and_stop":false,
+      "id":15451185,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":14400,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-09T16:58:00-04:00",
+      "stop":"2011-08-09T20:58:00-04:00",
+      "description":"Research \u0026 Meetings",
+      "ignore_start_and_stop":false,
+      "id":15451178,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":7200,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-10T17:54:00-04:00",
+      "stop":"2011-08-10T19:54:00-04:00",
+      "description":"Research \u0026 Meetings",
+      "ignore_start_and_stop":false,
+      "id":15604776,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":14400,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-11T13:25:57-04:00",
+      "stop":"2011-08-11T17:25:57-04:00",
+      "description":"Research \u0026 Meetings",
+      "ignore_start_and_stop":false,
+      "id":15548102,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":10800,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-11T14:25:00-04:00",
+      "stop":"2011-08-11T17:25:00-04:00",
+      "description":"JIRAs for 0.11",
+      "ignore_start_and_stop":false,
+      "id":15548100,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":3600,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-11T16:26:00-04:00",
+      "stop":"2011-08-11T17:26:00-04:00",
+      "description":"Updated NYU master branches",
+      "ignore_start_and_stop":false,
+      "id":15548113,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":18000,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-12T12:43:21-04:00",
+      "stop":"2011-08-12T17:43:21-04:00",
+      "description":"Fix integration tests",
+      "ignore_start_and_stop":false,
+      "id":15601979,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":14400,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-12T13:42:00-04:00",
+      "stop":"2011-08-12T17:42:00-04:00",
+      "description":"Research \u0026 Meetings",
+      "ignore_start_and_stop":false,
+      "id":15601965,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":10800,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-15T22:08:00-04:00",
+      "stop":"2011-08-15T01:08:00-04:00",
+      "description":"Research \u0026 Meetings",
+      "ignore_start_and_stop":false,
+      "id":15390226,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":7200,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-15T23:08:00-04:00",
+      "stop":"2011-08-15T01:08:00-04:00",
+      "description":"JIRAs for 0.11",
+      "ignore_start_and_stop":false,
+      "id":15390231,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":21600,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-16T19:08:00-04:00",
+      "stop":"2011-08-16T01:08:00-04:00",
+      "description":"JIRAs for 0.11",
+      "ignore_start_and_stop":false,
+      "id":15390234,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":28800,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-17T17:08:00-04:00",
+      "stop":"2011-08-17T01:08:00-04:00",
+      "description":"JIRAs for 0.11",
+      "ignore_start_and_stop":false,
+      "id":15390244,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":14400,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-17T21:08:00-04:00",
+      "stop":"2011-08-17T01:08:00-04:00",
+      "description":"Research \u0026 Meetings",
+      "ignore_start_and_stop":false,
+      "id":15390242,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":28800,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-18T12:59:00-04:00",
+      "stop":"2011-08-18T20:59:00-04:00",
+      "description":"JIRAs for 0.11",
+      "ignore_start_and_stop":false,
+      "id":15451185,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":14400,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-18T16:58:00-04:00",
+      "stop":"2011-08-18T20:58:00-04:00",
+      "description":"Research \u0026 Meetings",
+      "ignore_start_and_stop":false,
+      "id":15451178,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":7200,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-19T17:54:00-04:00",
+      "stop":"2011-08-19T19:54:00-04:00",
+      "description":"Research \u0026 Meetings",
+      "ignore_start_and_stop":false,
+      "id":15604776,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":14400,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-22T13:25:57-04:00",
+      "stop":"2011-08-22T17:25:57-04:00",
+      "description":"Research \u0026 Meetings",
+      "ignore_start_and_stop":false,
+      "id":15548102,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":10800,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-22T14:25:00-04:00",
+      "stop":"2011-08-22T17:25:00-04:00",
+      "description":"JIRAs for 0.11",
+      "ignore_start_and_stop":false,
+      "id":15548100,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":3600,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-22T16:26:00-04:00",
+      "stop":"2011-08-22T17:26:00-04:00",
+      "description":"Updated NYU master branches",
+      "ignore_start_and_stop":false,
+      "id":15548113,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":18000,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-23T12:43:21-04:00",
+      "stop":"2011-08-23T17:43:21-04:00",
+      "description":"Fix integration tests",
+      "ignore_start_and_stop":false,
+      "id":15601979,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    },
+    {
+      "duration":14400,
+      "tag_names":[
+
+      ],
+      "billable":false,
+      "project":{
+        "client_project_name":"NYU - OAE",
+        "name":"OAE",
+        "id":1001273
+      },
+      "start":"2011-08-23T13:42:00-04:00",
+      "stop":"2011-08-23T17:42:00-04:00",
+      "description":"Research \u0026 Meetings",
+      "ignore_start_and_stop":false,
+      "id":15601965,
+      "workspace":{
+        "name":"HT's workspace",
+        "id":156593
+      }
+    }
+  ]
+}
